@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<date>
+    <accounts>
+        <entry>
+            <key>CHF</key>
+            <value>1135.0</value>
+        </entry>
+        <entry>
+            <key>AUD</key>
+            <value>50.0</value>
+        </entry>
+        <entry>
+            <key>ZAR</key>
+            <value>200.0</value>
+        </entry>
+        <entry>
+            <key>CNY</key>
+            <value>350.0</value>
+        </entry>
+    </accounts>
+</date>
